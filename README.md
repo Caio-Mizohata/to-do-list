@@ -5,6 +5,7 @@
 ## 📖 Sobre o Projeto
 
 ### Um projeto simples que aborda os conceitos básicos do Django, ideal para quem está começando no desenvolvimento web com Python. O objetivo principal é criar uma aplicação de lista de tarefas (To-Do List) com funcionalidades completas de CRUD (Create, Read, Update, Delete), onde o usuário pode adicionar, visualizar, editar e remover tarefas de forma prática e intuitiva.
+
 Este projeto explora os principais recursos do Django, como:
 
 - Estrutura de projetos e apps
