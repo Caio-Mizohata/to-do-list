@@ -4,7 +4,16 @@
 
 ## 📖 Sobre o Projeto
 
-# Ainda em desenvolvimento..
+### Um projeto simples que aborda os conceitos básicos do Django, ideal para quem está começando no desenvolvimento web com Python. O objetivo principal é criar uma aplicação de lista de tarefas (To-Do List) com funcionalidades completas de CRUD (Create, Read, Update, Delete), onde o usuário pode adicionar, visualizar, editar e remover tarefas de forma prática e intuitiva.
+Este projeto explora os principais recursos do Django, como:
+
+- Estrutura de projetos e apps
+- Criação de modelos (models) para persistência de dados
+- Utilização do ORM do Django
+- Criação de views e templates para renderização das páginas
+- Manipulação de formulários
+- Rotas e URLs
+- Integração com o painel administrativo do Django
 
 ## ✨ Funcionalidades
 
@@ -21,7 +30,7 @@
     -   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 -   **Frontend:**
     - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    - ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 -   **Banco de Dados:**
     -   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
