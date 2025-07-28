@@ -18,6 +18,7 @@ Este projeto explora os principais recursos do Django, como:
 
 -   **Adicionar Tarefas:** Crie novas tarefas com títulos e descrições.
 -   **Visualizar Tarefas:** Veja uma lista de todas as suas tarefas pendentes e concluídas.
+-   **Filtrar tarefas:** Busque por todas as tarefas criadas na barra de pesquisa.
 -   **Marcar como Concluída:** Altere o status de uma tarefa para "concluída".
 -   **Editar Tarefas:** Modifique os detalhes de uma tarefa existente.
 -   **Excluir Tarefas:** Remova tarefas que não são mais necessárias.
