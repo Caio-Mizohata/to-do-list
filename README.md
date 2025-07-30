@@ -90,5 +90,5 @@ Siga estas instruções para obter uma cópia do projeto em funcionamento em sua
     python manage.py runserver
     ```
 
-Agora você pode acessar a aplicação em seu navegador no endereço `http://127.0.0.1:8000`. 
+Agora você pode acessar a aplicação em seu navegador no endereço `http://127.0.0.1:8000`. <br>
 O painel de administração estará disponível em `http://127.0.0.1:8000/admin`.
