@@ -49,7 +49,7 @@ Siga estas instruções para obter uma cópia do projeto em funcionamento em sua
 
     ```bash
     git clone https://github.com/caioeduardo4100/to-do-list.git
-    cd to-do-list-django
+    cd to-do-list
     ```
 
 2.  **Crie e ative um ambiente virtual:**
