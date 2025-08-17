@@ -48,7 +48,7 @@ Siga estas instruções para obter uma cópia do projeto em funcionamento em sua
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/caioeduardo4100/to-do-list.git
+    https://github.com/Caio-Mizohata/to-do-list.git
     cd to-do-list
     ```
 
